@@ -1,0 +1,7 @@
+food: 
+transport: 
+living: 
+shopping: 
+health: 
+savings: 
+income: 

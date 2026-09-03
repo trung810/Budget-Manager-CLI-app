@@ -1,0 +1,6 @@
+food: 2700000
+transport: 900000
+living: 1800000
+shopping: 450000
+health: 450000
+savings: 2700000
